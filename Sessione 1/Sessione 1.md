@@ -1,6 +1,6 @@
 1- L'uomo misterioso ricorda l'attacco al suo villaggio, sa di essere uno degli unici se non l'unico sopravvissuto ma crede di aver subito qualche maleficio perché ha perdita di ricordi a tratti 
 
-se passeranno la notte seguente con lui mentre cercano tracce, si trasformerá in licantropo e attaccherá il padSdty
+se passeranno la notte seguente con lui mentre cercano tracce, si trasformerá in licantropo e attaccherá il party
 
 cercando nelle case le troveranno tutte vuote e in soqquadro, noteranno alcuni stendardi dell'esercito nemico strappati
 
