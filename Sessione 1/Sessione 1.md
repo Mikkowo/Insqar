@@ -1,6 +1,3 @@
-fgdsgfsdaasdadaf
-
-
 1- L'uomo misterioso ricorda l'attacco al suo villaggio, sa di essere uno degli unici se non l'unico sopravvissuto ma crede di aver subito qualche maleficio perché ha perdita di ricordi a tratti 
 
 se passeranno la notte seguente con lui mentre cercano tracce, si trasformerá in licantropo e attaccherá il party
@@ -8,7 +5,7 @@ se passeranno la notte seguente con lui mentre cercano tracce, si trasformerá i
 cercando nelle case le troveranno tutte vuote e in soqquadro, noteranno alcuni stendardi dell'esercito nemico strappati
 
 L'uomo, o il prossimo npc incontrato, consiglierá di portare la lettera in udienza al re del regno per metterlo in luce dei piani del nemico
-
+sdaasdasda
 2- Viaggio verso sud per tornare nel territorio alleato, fuori dal villaggio c'e un gruppo di 5 guardie che li sta cercando dopo l'evasione, possono decidere di attaccarli per rubare i cavalli; attraverseranno i vari campi di battaglia dove loro stessi hanno combattuto, dove noteranno un numero stranamente basso di cadaveri nonostante il grande bagno di sangue che il loro esercito ha subito
 
 Durante il percorso verso il confine si imbattono in un templio : accenno al fatto che la terra di Insqar é molto religiosa, roll d100 se un giocatore chiede a che divinitá sia dedicato il tempo (risultato/4= 1a lettera)
