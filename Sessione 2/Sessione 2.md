@@ -40,10 +40,33 @@ Non troppo distante dal castello, a circa qualche minuto dalla piazza centrale, 
 
 . . .
 
-Arriva ad aprirvi la porta questo uomo sui 70, con una barba bianca ben curata 
+Arriva ad aprirvi la porta questo uomo sui 70, con una barba bianca ben curata e completamente stempiato e vestito con una formale camicia blu reale coperta da un blazer color ocra scuro.
+
+Riconosce alcuni membri del party e da loro il benvenuto, quindi si presenta come Pieroangela agli altri, li fa accomodare in un ampioso salone ed offre loro del té
+
+Dopo aver sentito la storia di Ashley, spiega loro che puó aiutarli a rompere questa maledizione ma che una semplice magia non é abbastanza e che dovranno recarsi dove si trova la vera e propria forma fisica di essa. 
+
+"Mentre inizia a preparare il rituale, che dura circa un'oretta, vi spiega dettagliatamente come funzionerá: "Proietteró i vostri corpi astrali in un altro piano, dove sará presente la stessa maledizione che afflige Ashnir. Tuttavia dovrete fare molta attenzione, per quanto possa sembrare innoquo il piano astrale é famoso per fare scherzi anche alle volontá piú ferree e so che chiedervi di non farvi tentare sarebbe inutile, quindi l'unica cosa che consiglieró sará di non separarvi. In ogni caso, vi richiameró ai vostri corpi fisici non appena sentiró la maledizione scomparire o venire domata dal corpo che la contiene. Se avete domande adesso é il momento per farle"
+
+. . .
+
+"Bene, qui é tutto pronto. Non temete per i vostri corpi, ne terró cura io. Mettetevi in cerchio e tenetevi per mano, quindi chiudete gli occhi"
+
+Sentite una strana sensazione pervadere il vostro corpo, come se vi foste buttati in una vasca di acqua gelida. Quando riaprite gli occhi sentite il senso del tatto svanire per qualche secondo. Quello che vedete é una dimensione completamente diversa da quella materiale; i vostri corpi sembrano essere translucidi: a prima vista sono solidi ma se vi concentrate potete vedere attraverso, inoltre dietro il vostro collo spunta un cordone argenteo che si protrae verso l'altro e scompare dopo circa 30 centimetri. Vi guardate attorno, vi sembra essere in una specie di stanza circolare le quali mura sono in realtá confini di forza trasparenti che vi permettono di vedere l'infinitá dello spazio dietro esse. Non riuscite a delimitare bene le grandezze della stanza, quelli che sembrano essere 10 centrimetri potrebbero benissimo rivelarsi 200 metri, il vostro senso del tempo é anche completamente dissolto dal momento che siete arrivati qui. Davanti a voi, nel fondo del corridoio, vedete una turbolente anima nera incatenata da vincoli magici che si protraggono all'infinito in alto e in basso: capite subito che si tratti della maledizione di Ashnir: potrete ucciederla per dare fine ai suoi giorni da licantropo oppure indebolirla abbastanza per far si che il suo corpo la possa controllare a suo piacimento. Fate per incamminarvi, ma ognuno di voi scorge qualcosa incastonata nelle mura circolari di questo ingresso.
+
+Grullo nota una enorme ascia bipenne dorata, gia dal primo sguardo riesci a comprendere che non é una misera arma della dimensione materiale, ma nasconde qualcosa di intrigante dentro di essa
+
+Akash, i tuoi occhi vengono attirati da un riflesso. Quando provi a metterlo a fuoco, capisci che non era davvero un riflesso, ma vedi questa mazza splendente di luce divina, emanante una benevole aura che ti sembra confortevole
+
+Torsen invece é incantato su quello che riconosce essere il [MANUALE DELLA CONOSCENZA ANTICA DEI COSTRUTTI ], una scrittura ormai perduta che contiene le gli antichi segreti sul perfezionismo di ogni tipo di macchina o costrutto
+
+Bocka é attrato da una strana verga che i suoi occhi esperti distinguono come bastone dello Charme, artefatto desiderato da tutti i bardi del mondo e non solo
+
+Niam (nieve) vieni attrato dal rumore di un tuono che si schianta dietro di te: a provocarlo é stato il tridente del fulmine, ora sulla parete del muro carico di elettricitá
+
+Infine, gli occhi di Thyla finiscono su un incantevole strumento a corda che ti sussurra un incantevole melodia, come a pregarti di andare a raccoglierlo"
 
 
-. . . 
 
 
 
