@@ -13,34 +13,69 @@ Se decidono di entrare e salire ad accoglierli sará sorella Pana, nel giardino 
 
 . . .
 
-**  aggiungere che le armate nemiche sono diminuite in numero di recente e i conflitti cessati
 
 
-** Il traduttore dirá che il messaggio é purtroppo criptato ed é riuscito a tradurre alcune lettere tramite una magia di divinazione che ha esaurito le sue capacitá e che il resto dovrá essere decifrato a mano 
+All'arrivo in capitale:
 
 
-2 cose da fare in cittá 
-a) portare lettera, dovranno chiedere audienza al re
+"Giungete finalmente a Fulger, la capitale del regno. Finendo di oltrepassare l'ultima collina la cinta  muraria si erge davanti a voi, con un diametro che va a perdersi nel panorama data la sua enorme estenzione. Dietro le mura in mattoni grigi, con tanto di torri di vedetta non troppo distanti l'una dall'altra, l'unica struttura che scorge é l'imponente castello reale, interamente bianco con le guglie delle torri blu che quasi si confondono col cielo. É li che vi trovavate prima di partire per la guerra; é li che si trovano i pochi compagni d'arme che sono sopravvissuti. Giunti al cancello, riuscite a buttar l'occhio nella grande cittá che tutti conoscete bene, centro economico e sociale dell'intero regno sotto il governo del re Ky, che rappresenta probabilmente il suo ultimo barlume di speranza. Avete sentito tanti racconti sulla grande maestria ed esperienza in battaglia del re, apparentemente fondati visto che la sua squadra continua a tornare senza perdite da ogni conflitto. Mentre divagate col pensiero su tutto il da farsi, la coda é finalmente finita ed dopo una breve confrontazione con le guardie potete entrare"
 
-
-
-Qualora decidessero di proritizzare il re, potranno andare a corte a chiedere
+[GUARDIE INTERROGANO PER ACCESSO A CITTÁ, EVENTUALMENTE DANNO INDICAZIONI SE RICHIESTE; menzioneranno come il numero di conflitti recentemente é cessato e le trincee nemiche sembrano avere meno soldati]
 
 
 
 
+La capitale ha appunto qualsiasi cosa uno possa chiedere, da ogni tipo di negozio, fabbri, alchemie, ostelli e bordelli
 
+-I giocatori sono liberi di fare i loro cazzi in cittá, prima durante o dopo aver portato la lettera ad un traduttore
 
-b) curare licantropia, lo stregone parla in modong stranong cosi per dar fastidior a tuttel, próporra (con accento stranel) il bagno nella piscina spirituale per combattere il lupo interiore ad ashleyu come cazzo si chiama, quindi casta planeshift sul party
-
-
-
-
-
+-Si trova in cittá anche uno stregone abbastanza famoso, alcuni hanno gia avuto esperienze con lui, che potrá potenzialmente aiutare con la condizione di Ashnir
 
 
 
 
+[1: STREGONE ASHNIR]
+
+Non troppo distante dal castello, a circa qualche minuto dalla piazza centrale, sorge una peculiare torre con la guglia che rispecchia quella prima descritta, tuttavia questa volta il colore della struttura é grigia come le mura; avevate notato qualche altra torre del genere in giro per la cittá, ma questa é veramente in una zona centrale, probabilmente concessa dal re che potrebbe usufruirie dei servigi di Pieroangela, lo stregone umano che stavate cercando
+
+. . .
+
+Arriva ad aprirvi la porta questo uomo sui 70, con una barba bianca ben curata 
+
+
+. . . 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+** Il traduttore dirá che nonostante la sua magia per tradurra il messaggio rimane criptato, é riuscito a decriptare alcune lettere grazie a magia di divinazione ma ha esaurito le sue capacitá il resto dovrá essere decifrato a mano
+
+
+
+
+
+
+
+
+
+Percorrete le strade della grande Fulger per una decina di minuti, prima di svoltare in un vicolo stretto; continuate quindi a percorrere per qualche altro minuto, facendo attenzione a non perdervi nel labirinto di stradine fino a giungere davanti una struttura abbastanza trasandata, con una porta di legno che a breve si regge in piedi e piena di fori o piccoli tranci
+
+
+
+
+[SOLUZIONE LETTERA]
 
 L'esercito della notte é quasi pronto. La missione nel villaggio agari ha avuto successo. L'imperatore é pronto ad ascendere. Direzione: Vetta
 
