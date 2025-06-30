@@ -13,6 +13,8 @@ Se decidono di entrare e salire ad accoglierli sará sorella Pana, nel giardino 
 
 . . .
 
+NB aggiungere che le armate nemiche sono diminuite in numero di recente e i conflitti cessati
+
 
 2 cose da fare in cittá 
 a) portare lettera, dovranno chiedere audienza al re
