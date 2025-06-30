@@ -17,4 +17,13 @@ Se decidono di entrare e salire ad accoglierli sará sorella Pana, nel giardino 
 2 cose da fare in cittá 
 a) portare lettera, dovranno chiedere audienza al re
 
+
+
+Qualora decidessero di proritizzare il re, potranno andare a corte a chiedere
+
+
+
+
+
+
 b) curare licantropia, lo stregone parla in modong stranong cosi per dar fastidior a tuttel, próporra (con accento stranel) il bagno nella piscina spirituale per combattere il lupo interiore ad ashleyu come cazzo si chiama, quindi casta planeshift sul party
