@@ -68,10 +68,21 @@ Infine, gli occhi di Thyla finiscono su un incantevole strumento a corda che ti 
 
 
 
+-Se vanno verso la maledizione, il cammino sembra durare da due minuti a due giorni e non riescono a computare la distanza percorsa 
+Quando approcciano l'ombra, questa spezza le catene e assume le sembianze di un lupo mannaro
+
+
+[COMBAT]
+Lupo Mannaro, buffato se non hanno combattuto nient'altro![[Pasted image 20250626111559.png]]
+
+Se buffato, 170HP (threshold 20 per graziarlo), 16 AC, 1d8+6 danni morso,  2d6+4 danni artigli
 
 
 
+-I vari artefatti sono molto distanti da loro secondo la stessa logica del corridoio del lupo, quindi solo uno alla volta puo essere preso senza separarsi
 
+Se ne raccolgono uno
+[COMBAT]
 
 
 
