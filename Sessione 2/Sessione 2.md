@@ -13,7 +13,10 @@ Se decidono di entrare e salire ad accoglierli sará sorella Pana, nel giardino 
 
 . . .
 
-NB aggiungere che le armate nemiche sono diminuite in numero di recente e i conflitti cessati
+**  aggiungere che le armate nemiche sono diminuite in numero di recente e i conflitti cessati
+
+
+** Il traduttore dirá che il messaggio é purtroppo criptato ed é riuscito a tradurre alcune lettere tramite una magia di divinazione che ha esaurito le sue capacitá e che il resto dovrá essere decifrato a mano 
 
 
 2 cose da fare in cittá 
