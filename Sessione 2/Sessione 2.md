@@ -42,5 +42,6 @@ b) curare licantropia, lo stregone parla in modong stranong cosi per dar fastidi
 
 
 
+L'esercito della notte é quasi pronto. La missione nel villaggio agari ha avuto successo. L'imperatore é pronto ad ascendere. Direzione: Vetta
 
 ![[Pasted image 20250630191727.png]]
