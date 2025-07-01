@@ -89,7 +89,6 @@ Se buffato, 170HP (threshold 20 per graziarlo), 16 AC, 1d8+6 danni morso,  2d6+4
 Se ne raccolgono uno
 [COMBAT]
 ![[Pasted image 20250701015823.png]]
-
 Nerfato: 17 AC, una sola azione Leggenaria e solo 2 multiattacchi, 9d6 sul soffio di fuoco con CD 16, CD 16 sul tiro salvezza su attacco di Ali
 
 
