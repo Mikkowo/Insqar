@@ -95,6 +95,10 @@ Se un membro muore durante uno scontro verrá catapultato fuori dalla proiezione
 [LETTERA]
 
 
+Percorrete le strade della grande Fulger per una decina di minuti, prima di svoltare in un vicolo stretto; continuate quindi a percorrere per qualche altro minuto, facendo attenzione a non perdervi nel labirinto di stradine fino a giungere davanti una struttura abbastanza trasandata, con una porta di legno che a breve si regge in piedi e piena di fori o piccoli tranci
+
+* Il traduttore é uno strambo goblin con tutta la casa in soqquadro
+
 
 
 
@@ -109,7 +113,6 @@ Se un membro muore durante uno scontro verrá catapultato fuori dalla proiezione
 
 
 
-Percorrete le strade della grande Fulger per una decina di minuti, prima di svoltare in un vicolo stretto; continuate quindi a percorrere per qualche altro minuto, facendo attenzione a non perdervi nel labirinto di stradine fino a giungere davanti una struttura abbastanza trasandata, con una porta di legno che a breve si regge in piedi e piena di fori o piccoli tranci
 
 
 
