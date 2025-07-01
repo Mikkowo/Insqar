@@ -1,3 +1,8 @@
+Proposta house rules
+roll d20, roll piu alto recap sessione
+
+
+
 Cont. da sessione 1
 
 
