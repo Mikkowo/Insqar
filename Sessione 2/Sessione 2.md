@@ -6,7 +6,7 @@ roll d20, roll piu alto recap sessione
 Cont. da sessione 1
 
 
-1- Usciti dal tunnel, arriveranno in un piccolo villaggio di agricoltori vicino alla capitale: Asveriu. Ad accoglierli sará Heebra, una giovane elfa incaricata di fare guardia al tunnel. Heebra dirá al party di aver saputo da Tina (qualora li abbia fatti passare di propria volontá) chi sono e offrirá loro un posto  per dormire; inoltre si offrirá di fare loro da guida per il villaggio qualora avessero qualsiasi bisogno
+1- Usciti dal tunnel, arriveranno in un piccolo villaggio di agricoltori vicino alla capitale: Asveriu. Ad accoglierli sará Heebra, una giovane elfa incaricata di fare guardia al tunnel. Heebra dirá al party di aver saputo da Tina chi sono e offrirá loro un posto  per dormire; inoltre si offrirá di fare loro da guida per il villaggio qualora avessero qualsiasi bisogno
 
 Il villaggio é piccolo, di circa 300 persone, con il necessario per sostenersi considerato che la maggior parte dei beni arrivano tramite baratto con la capitale grazie ai beni degli agricoltori. I giocatori potranno trovare le classiche attrazioni (fabbro, armaiolo, taverne etc, niente di magico). 
 
