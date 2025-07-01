@@ -51,7 +51,7 @@ Riconosce alcuni membri del party e da loro il benvenuto, quindi si presenta com
 
 Dopo aver sentito la storia di Ashley, spiega loro che puó aiutarli a rompere questa maledizione ma che una semplice magia non é abbastanza e che dovranno recarsi dove si trova la vera e propria forma fisica di essa. 
 
-"Mentre inizia a preparare il rituale, che dura circa un'oretta, vi spiega dettagliatamente come funzionerá: "Proietteró i vostri corpi astrali in un altro piano, dove sará presente la stessa maledizione che afflige Ashnir. Tuttavia dovrete fare molta attenzione, per quanto possa sembrare innoquo il piano astrale é famoso per fare scherzi anche alle volontá piú ferree e so che chiedervi di non farvi tentare sarebbe inutile, quindi l'unica cosa che consiglieró sará di non separarvi. In ogni caso, vi richiameró ai vostri corpi fisici non appena sentiró la maledizione scomparire o venire domata dal corpo che la contiene. Se avete domande adesso é il momento per farle"
+"Vi porta quindi al piano di sotto, usato come studio o per sperimentare magie. Mentre inizia a preparare il rituale, che dura circa un'oretta, vi spiega dettagliatamente come funzionerá: "Proietteró i vostri corpi astrali in un altro piano, dove sará presente la stessa maledizione che afflige Ashnir. Tuttavia dovrete fare molta attenzione, per quanto possa sembrare innoquo il piano astrale é famoso per fare scherzi anche alle volontá piú ferree e so che chiedervi di non farvi tentare sarebbe inutile, quindi l'unica cosa che consiglieró sará di non separarvi. In ogni caso, vi richiameró ai vostri corpi fisici non appena sentiró la maledizione scomparire o venire domata dal corpo che la contiene. Se avete domande adesso é il momento per farle"
 
 . . .
 
@@ -90,7 +90,7 @@ Se ne raccolgono uno
 [COMBAT]
 ![[Pasted image 20250701015823.png]]
 
-Nerfato: 17 AC, una sola azione Leggenaria, 9d6 sul soffio di fuoco con CD 16, CD 16 sul tiro salvezza su attacco di Ali
+Nerfato: 17 AC, una sola azione Leggenaria e solo 2 multiattacchi, 9d6 sul soffio di fuoco con CD 16, CD 16 sul tiro salvezza su attacco di Ali
 
 
 Se un membro muore durante uno scontro verrá catapultato fuori dalla proiezione astrale, ma gli altri non sapranno se é vivo finche non usciranno
@@ -102,13 +102,15 @@ Se un membro muore durante uno scontro verrá catapultato fuori dalla proiezione
 
 Percorrete le strade della grande Fulger per una decina di minuti, prima di svoltare in un vicolo stretto; continuate quindi a percorrere per qualche altro minuto, facendo attenzione a non perdervi nel labirinto di stradine fino a giungere davanti una struttura abbastanza trasandata, con una porta di legno che a breve si regge in piedi e piena di fori o piccoli tranci
 
-* Il traduttore é uno strambo goblin con tutta la casa in soqquadro
+
+Ad aprirvi é un minuto goblin con dei strambi occhiali e vestiti trasandati, si presenta come Perry
+
+-La casa é tutta incasinata, ogni tanto passa un ratto con qualche cibo rubato 
 
 
 
 
-
-** Il traduttore dirá che nonostante la sua magia per tradurra il messaggio rimane criptato, é riuscito a decriptare alcune lettere grazie a magia di divinazione ma ha esaurito le sue capacitá il resto dovrá essere decifrato a mano
+- Il goblin dirá che nonostante la sua magia per tradurre il messaggio rimane criptato, é riuscito a decriptare alcune lettere grazie a magia di divinazione ma ha esaurito le sue capacitá il resto dovrá essere decifrato a mano
 
 
 
