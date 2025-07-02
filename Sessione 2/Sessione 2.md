@@ -90,7 +90,6 @@ Lupo Mannaro, Buffato
 Se ne raccolgono uno
 [COMBAT]
 ![[Pasted image 20250701015823.png]]
-
 Nerfato: 17 AC, una sola azione Leggenaria e solo 2 multiattacchi, 9d6 sul soffio di fuoco con CD 16, CD 16 sul tiro salvezza su attacco di Ali
 
 
