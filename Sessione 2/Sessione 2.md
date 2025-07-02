@@ -78,9 +78,10 @@ Quando approcciano l'ombra, questa spezza le catene e assume le sembianze di un 
 
 
 [COMBAT]
-Lupo Mannaro, buffato se non hanno combattuto nient'altro![[Pasted image 20250626111559.png]]
+Lupo Mannaro, Buffato
 
-Se buffato, 170HP (threshold 20 per graziarlo), 16 AC, 1d8+6 danni morso,  2d6+4 danni artigli
+![[Pasted image 20250626111559.png]]
+85HP (threshold 20 per graziarlo), 15 AC, 1d8+6 danni morso,  2d4+4 danni artigli
 
 
 
