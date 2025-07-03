@@ -1,3 +1,4 @@
+
 ![[Pasted image 20250627185328.png]]![[Pasted image 20250627185316.png]]
 +1d4 danni magici
 
