@@ -18,3 +18,6 @@ https://dnd5e.wikidot.com/spells SPELLS
 FIGHT GEN https://5e.tools/bestiary.html#green%20slaad_mm   https://www.aidedd.org/dnd-encounter/index.php?s=1     
 
 
+
+
+MATERIAL SPELL COMPONENTS FOR BIG SPELLS https://docs.google.com/spreadsheets/d/1KSibOeWub0_f79GYSnMu7om8kWwog1ob8dRY9LLoDAE/edit?gid=0#gid=0
