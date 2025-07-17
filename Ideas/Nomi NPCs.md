@@ -1,2 +1,1 @@
-www.
-ikea.com
+www.ikea.com
