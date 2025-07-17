@@ -1,1 +1,0 @@
-Oggetto magico che permette di trasmutare gli interni di qualsiasi struttura in un portare che connette ad una loro base in un piano diverso

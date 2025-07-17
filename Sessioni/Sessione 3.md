@@ -19,7 +19,30 @@ Lupo Mannaro, Buffato
 "Il re Ky si presenta con un aspetto nobile ed ordinato, con una carnagione chiara e capelli biondi ben pettinati. É un uomo giovane ed attraente, ma dai suoi occhi azzurri riuscite a capire che é anche una persona molto saggia. Indossa una lunga giacca bianca con, in cinta, foderata la sua spada bastarda. " 
 [Test Religione/Storia DC 15] --> Riconoscete la spada come Vamiroth (Defender DMG pg 175), Spada Sacra tramandata nella famiglia reale da generazioni
 
+-Dopo aver scoperto il contenuto della lettera, il re li ringrazierá e offrirá loro di riposare in alcune stanze per ospiti mentre decide il da farsi con il consiglio
 
+-Poco dopo, una guardia reale li accompagna nelle loro stanze: aperto un portone vi é una stanza molto voluminosa con 5 porte, collegate alle loro stanze personali contenenti letto ed eventuali esigenze personali. La lobby é composta da un camino acceso e un tavolino basso circondato da divanetti. Al lato della stanza senza porte é appoggiato un mobile che soddisferebbe qualsiasi necessitá di razioni e strumenti basici da esploratori. Infine sul tavolino si trovano 3 oggetti accompagnati da un bigliettino "Grazie per il vostro sostegno e la vostra fedeltá, spero questi possano esservi utili"
+
+Il primo oggetto é una piccola sacca a tracolla, molto colorata e particolare. Se provate a muoverla notate che é piú pesante di quello che vi aspettereste da una borsa vuota, poco meno di 10kili.
+
+Il secondo oggetto é una verga in metallo lunga circa 60 centimetri con alle estremitá scolpite le due metá di un pegaso, quindi testa e zampe anteriori da un lato e parte posteriore dall'altro. Al centro della verga ci sono le ali, questa volta incise, e nel loro mezzo un pulsante
+
+Il terzo ed ultimo oggetto é banalmente un cavallo degli scacchi in legno
+
+
+
+
+
+-Free time
+
+
+
+-Finiti i preparativi, il re manderá un membro della corte a chiamarli, Chiederá loro di avviarsi verso la montagna per fare ricognizione, nonostante dubita che il nemico riesca a scalarla a causa del sigillo imposto in passato da poteri celestiali. Anche lui movimenterá i suoi uomini, ma hanno bisogno di piú tempo per prepararsi e ritiene importante agire tempestivamente
+
+
+
+
+3)
 
 
 
