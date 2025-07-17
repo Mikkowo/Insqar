@@ -70,9 +70,15 @@ Possono provare a combattere i non morti, che sono principalmente scheletri (res
  Se arrivano sulle mura, in mezzo agli scheletri e alle varie macchine d'assedio(gag di legolas xdd) , noteranno in lontananza una vampira racchiusa dentro un rubino prismatico (ferma tutti gli attacchi da lontano),
  che rimane lontano dalle mura mentre usa magia del sangue per chissá quali scopi. Dovranno farsi strada per raggiungerla in mezzo agli scheletri
 
+
+Una volta uccisa la strega, tutti i non morti cadranno immediatamente a terra
+
+
+
+
+
 ![[Pasted image 20250626111416.png]]
 ![[Pasted image 20250626111552.png]]
-
 
 
 ![[Pasted image 20250717141252.png]]
