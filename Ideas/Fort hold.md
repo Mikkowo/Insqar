@@ -1,1 +1,0 @@
-Fort hold contro un armata di creature della notte, mentre fanno campo ad una citta verrano assaliti durante la notte, si sveglieranno con le sirene e dovreanno mantenere salde le mura della citta

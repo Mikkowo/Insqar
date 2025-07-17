@@ -1,1 +1,0 @@
-![[Pasted image 20250627163907.png]]![[Pasted image 20250627163914.png]]https://www.scribd.com/document/872439195/Monsters-of-Drakkenheim-Digital-Edition pg 255
