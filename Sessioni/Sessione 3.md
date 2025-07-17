@@ -44,19 +44,35 @@ Il terzo ed ultimo oggetto é banalmente un cavallo degli scacchi in legno
 
 3)
 
+-Si avviano in sella a dei cavalli, fino ad incontare una cittá poco prima che il sole cali: Ashen Fair
+![[ashen_fair.png]]
+
+
+Potranno passare la notte li oppure essere costretti a scappare da un orda di non morti per tutta la notte al posto di riposare :D
+
+
+É una normale cittadina, gli abitanti sono simpatici ed accoglienti
+
+Cala la notte:
+
+"* Rumore di ariete  che sfonda il portone principale *
+Vi svegliate di soprassalto, nuovamente il rumore, sembra essere un terremoto, sentite i muri della vostra stanza che vibrano, i letti che ballano. Ancora il rumore, quasi incessante. Poi finalmente, frastuono, legno che si rompe, urla ovunque, seguito da ferro che si scontra con altro ferro, soldati che urlano ordini, frecce che fischiano, rimbombi di proiettili di artiglieria che si schiantano non lontano da voi, case che cadono
+
+Alla vostra uscita, vedete quello che avevate immaginato: il cancello principale é stato sfondato da un ariete, la cittá a ferro e fuoco, un orda di non morti che poco a poco sta avendo la meglio sulla guardia cittadina. Man mano che le persone si svegliano, vedete che tutti - soldati o no - stanno correndo alle armi, i contadini con i forconi in mano, donne e bambine che scappano in massa verso la cattedrale a cercare rifugio. Cosa fate?"
+
+
+Possono provare a combattere i non morti, che sono principalmente scheletri (reskin guardia) e sporadicamente qualche progenie vampirica, ma presto capiranno che sono troppi per essere sconfitti uno ad uno
+
+-Se scappano o si nascondono la cittá cadrá, l'esercito dei non morti continuerá a crescere
+
+-Possono notare che i soldati si stanno man mano raggruppando sulle mura, tentando di tenere una posizione di vantaggio
+
+ Se arrivano sulle mura, in mezzo agli scheletri e alle varie macchine d'assedio(gag di legolas xdd) , noteranno in lontananza una vampira racchiusa dentro un rubino prismatico (ferma tutti gli attacchi da lontano),
+ che rimane lontano dalle mura mentre usa magia del sangue per chissá quali scopi. Dovranno farsi strada per raggiungerla in mezzo agli scheletri
+
+![[Pasted image 20250626111416.png]]
+![[Pasted image 20250626111552.png]]
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-TOWN DEFENSE PORCACCIO![[ashen_fair.png]]![[Pasted image 20250717141029.png]]![[Pasted image 20250717141252.png]]
+![[Pasted image 20250717141252.png]]
