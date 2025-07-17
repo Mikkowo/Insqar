@@ -1,4 +1,4 @@
-1)... CONT 
+	1)... CONT 
 -Se vanno verso la maledizione, il cammino sembra durare da due minuti a due giorni e non riescono a computare la distanza percorsa 
 Quando approcciano l'ombra, questa spezza le catene e assume le sembianze di un lupo mannaro
 
@@ -76,7 +76,7 @@ Una volta uccisa la strega, tutti i non morti cadranno immediatamente a terra
 
 
 
-
+Maridov
 ![[Pasted image 20250626111416.png]]
 ![[Pasted image 20250626111552.png]]
 
