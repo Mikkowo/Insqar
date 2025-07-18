@@ -1,4 +1,4 @@
-lvup to
+lvup to 5
 1)... CONT 
 -Se vanno verso la maledizione, il cammino sembra durare da due minuti a due giorni e non riescono a computare la distanza percorsa 
 Quando approcciano l'ombra, questa spezza le catene e assume le sembianze di un lupo mannaro
