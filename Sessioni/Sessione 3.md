@@ -78,10 +78,6 @@ Una volta uccisa la strega, tutti i non morti cadranno immediatamente a terra
 
 
 
-
-Maridov
-![[Pasted image 20250626111416.png]]
-![[Pasted image 20250626111552.png]]
-
+![[Pasted image 20250717141029.png]]
 
 ![[Pasted image 20250717141252.png]]
