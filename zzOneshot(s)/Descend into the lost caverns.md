@@ -122,3 +122,63 @@ LOOT:
 "Il fondo sabbioso di questo lungo e ampio corridoio è disseminato di cumuli di escrementi di pipistrello. Da questi depositi e dalle pareti spuntano piccoli funghi. Una cacofonia di cinguettii e
 cigolii echeggia dall'alto."
 
+![[Pasted image 20250829225306.png]]
+
+
+
+[L10]
+"La caverna si allarga in una galleria di notevole altezza e lunghezza. Gruppi di piccoli funghi crescono in tutta la camera, e strane rientranze punteggiano il pavimento e le pareti a intervalli semiregolari. Da qualche parte più in fondo alla caverna, un debole chiarore proietta ombre tremolanti."
+
+![[Pasted image 20250829230013.png]]
+
+
+[L11]
+"Questa grotta puzza di sudore, fumo e carne avariata. Ossa e teschi vecchi e rotti giacciono sparsi sul pavimento. Una grande roccia piatta sostiene enormi calici di pietra e la carcassa di un rospo gigante, ripulita e piena di mosche. Due mucchi di pelli sporche formano dei letti all'estremità della grotta.
+Due orribili giganti sono accovacciati vicino a un cerchio di pietre massicce che racchiudono un faló scoppiettante. Sopra le fiamme, un insetto gigante carbonizzato ruota lentamente su uno spiedo."
+
+FIGHT FOMORIAN (sempre Gigante)
+![[Pasted image 20250829235637.png]]
+
+LOOT: dietro i letti, due zanne di mammoth in avorio (600MO l'una, peso 50 kg), pergamena dell'incantesimo Levitazione
+
+[L12]
+"Una barca di legno lunga tre metri è legata a una sporgenza vicino all'acqua. Intricati nodi decorano i lati dell'imbarcazione, che si assottiglia a punta ad entrambe le estremità.
+All'interno si trovano due remi."
+
+https://www.dndbeyond.com/magic-items/4639-folding-boat
+DC 15 Arcana per capire come funziona
+
+
+[L13]
+"Un fiume scorre nel lato sud di questa caverna dall'alto soffitto, alimentando un lago vitreo color ebano. Gocce d'acqua cadono dal soffitto in alto, increspando la superficie
+speculare dell'acqua.
+Due fiumi sgorgano dal lato nord del lago, mentre un terzo scorre verso ovest. Le sporgenze lungo la riva conducono a gallerie asciutte."
+
+![[Pasted image 20250830002006.png]]
+
+[L14]
+"Pezzi di roccia dalle forme bizzarre sono sparsi in questa grotta, che puzza di ammoniaca. Sparse tra i pezzi di roccia irregolari ci sono sculture in pietra di varie creature, tra cui pipistrelli, lucertole sotterranee e un busto rotto di uno gnomo con un'espressione inorridita."
+
+![[Pasted image 20250830002424.png]]
+
+LOOT:
+![[Pasted image 20250830002551.png]]
+
+[L15]
+"Questa caverna presenta un arcobaleno di colori sulle pareti e sul pavimento. Le stalattiti pendono come ghiaccioli colorati e le stalagmiti presentano striature e vortici luminosi.
+I depositi minerali formano cortine ghiacciate, cascate e altre forme fantastiche dai colori vivaci."
+
+![[Pasted image 20250830004433.png]]
+
+[L16]
+"Qui sono accuratamente accatastati piccoli massi arrotondati che bloccano l'ingresso di un ampio tunnel." 
+
+
+
+[L17]
+"La caverna naturale cede il passo a un lussuoso salotto. Lampadari di cristallo inondano la stanza di una luce soffusa e il profumo dei fiori d'arancio permea l'aria. Soffici
+cuscini circondano un tavolo basso colmo di frutta matura, bevande rinfrescanti e carni succulente. Divani bassi e comode poltrone punteggiano le pareti del salotto,
+e i tavolini tra queste sedute traboccano di pietre preziose, gioielli e altri tesori.
+Quattro aristocratici umani impeccabilmente vestiti ridono e banchettano nel salotto. Un quartetto d'archi inedito accompagna i loro festeggiamenti con musica rilassante."
+
+![[Pasted image 20250830004905.png]]
