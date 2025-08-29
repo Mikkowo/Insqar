@@ -182,3 +182,17 @@ e i tavolini tra queste sedute traboccano di pietre preziose, gioielli e altri t
 Quattro aristocratici umani impeccabilmente vestiti ridono e banchettano nel salotto. Un quartetto d'archi inedito accompagna i loro festeggiamenti con musica rilassante."
 
 ![[Pasted image 20250830004905.png]]
+
+
+[L18]
+"Il fiume sfocia in una caverna allagata, creando un piccolo lago. La superficie dell'acqua è lucida e nera. Un'isola rocciosa si erge dal centro della pozza."
+![[Pasted image 20250830010552.png]]
+
+[L19]
+"Vene di quarzo scintillante riempiono le pareti di questa grotta di cristallo. Tre bizzarre creature con occhi dalle palpebre di pietra conversano con toni stridenti. Ognuna ha tre braccia artigliate, tre gambe tozze e un corpo a forma di botte."
+
+![[Pasted image 20250830010903.png]]
+
+[L20]
+"Lo stretto fiume sfocia in una caverna a cupola il cui soffitto è irto di stalattiti. Da nord-ovest echeggiano deboli suoni di acqua che scorre."
+
