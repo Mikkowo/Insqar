@@ -5,7 +5,7 @@ I giocatori possono quindi aiutare in giro per la cittá. Dopo qualche ora di la
 
 
 Alla riunione sono presenti i governatori di Ashen Fair, alcuni esponenti religiosi che risiedono nella cattedrale, alcuni dei volti piú noti di alcuni abitanti del paese. Infine anche a Maridov spetta una seduta al tavolo, allo scalpore di tutti nel vedere una Guardia Reale in un piccolo paese del genere.
-Parleranno di come tutti siano ignari delle motivazioni dell'esercito di assalire questa cittá, Maridov renderá ben chiaro agli avventurieri
+Parleranno di come tutti siano ignari delle motivazioni dell'esercito di assalire questa cittá, Maridov renderá ben chiaro agli avventurieri che l'avvento degli accadimenti sulla Vetta debba rimanere un segreto
 Durante la riunione gli uomini di fede sembrano essere sulla difensiva, quasi come se avessero la coda di paglia
 
 
