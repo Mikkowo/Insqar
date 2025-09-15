@@ -1,1 +1,0 @@
-Dare ad ogni giocare una "I know a guy" card (fisica) e ad uno la gay card

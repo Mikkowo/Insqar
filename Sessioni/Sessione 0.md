@@ -1,3 +1,4 @@
+
 note: spiega le azioni in combat: spint, disengage, preparare reazione etc;
 in-dept su magie:componenti V S M focus arcano al posto di componenti low-cost, rituale per castare: 10m cast time, no spell slot, no livello piú alti, deve essere specificato
 DINKDONK ricorda che hai tutti i mostri per i combat pronti su telegram DINKDONK
