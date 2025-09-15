@@ -1,4 +1,4 @@
-
+		
 INTRODUZIONE:
 
 "Nelle profonditá delle Montagne Yatil si trovano le Caverne Perdute di Tsojcanth, un tempo occupate dalla leggendaria arcimaga Iggwilv Regina delle Streghe. 
@@ -64,7 +64,7 @@ petto della creatura."
 
 CLAY GOLEM FIGHT ![[Pasted image 20250829201821.png]] 
 LOOT: 
-Una volta ucciso il golem, la spada potrá essere estratta in tranquillitá, rivelandosi la spada corta "Ammazzagiganti", con il nome "Dentelungo" inciso in Gnomico sulla lama.
+Una volta ucciso il golem, la spada potrá essere estratta in tranquillitá, rivelandosi la spada corta "Ammazzagiganti", con il nome "Dentelungo" inciso in Nanico sulla lama.
 ![[Pasted image 20250829202714.png]]
 
 
