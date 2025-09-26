@@ -1,1 +1,3 @@
 Quando il bro realizza che la dea non ce inizia un rituale di sangue per letteralmente strappare il bordo che confina il mondo terreno con quello celestiale e tirare fuori a forza un angelo (deva/solar) che corromperá e combeatterá al suo fianco
+
+![[Pasted image 20250926132130.png]]

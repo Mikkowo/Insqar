@@ -14,3 +14,36 @@ Infinite, arriveranno finalmente ai piedi della Vetta, pronti a iniziare la dura
 
 
 ![[Pasted image 20250915012141.png]]![[Pasted image 20250915012149.png]]![[Pasted image 20250915011613.png]]
+
+
+
+
+Sconfitti i cavalieri e riposatosi, noteranno che il percorso solitamente usato per percorrere la prima parte della montagna é colmo di guardie, disperse periodicamente in squadroni da 5 e ognuna comandata da un Cavaliere Cremisi, farsi strada cosí sará pericoloso e tosto [5 encounter in totale]
+
+![[Pasted image 20250626111416.png]]
+
+
+
+Cercando approfonditamente nella grotta (30 minuti), che si espande in varie gallerie naturali, potrá essere trovata una piccola chiave magica in pietra usata in una rientranza di un vicolo cieco, questo fará aprire un passaggio segreto che, attraverso una scalinata in pietra, condurrá all'ingresso di un imponente tempio in pietra che entra nel lato della montagna
+
+
+L'ultima opzione é provare a scalarla arrampicandosi sul lato, percorso pieno di imprevisti come frane e pericoloso, richiede tiri su atletica e collaborazione usando corde, chiodi e quant'altro.
+Durante la scalata possono essere presenti frane, attacchi da creture volanti come una [CHIMERA] o un [COUATL] ![[Pasted image 20250926134817.png]]
+![[Pasted image 20250926134622.png]]
+
+
+
+
+Tutti e tre i percorsi porteranno allo stesso punto:
+
+"Un ampio spiazzo si apre dinanzi a voi, la strada battuta che percorreva il lato della montagna finisce qui, indicando forse l'ultimo punto che ai tempi era permesso accedere ai civili. Alla fine dello spiazzo, dove dovrebbe stare il lato della montagna si erge una maestosa facciata di un tempio in pietra, con pilastri ancora intatti che sorreggono il tetto a due falde (possiamo compararlo alla facciata di un tempio greco per intenderci).
+Iniziate a sentire energia radiosa diffusa attorno a voi, quasi come se stesse provando a scacciarvi (questa forza scompare se entrano nel tempio), e il cielo che fino a poco fa sembrava limpido ha iniziato ad incupirsi, privandovi del conforto dell'accogliente e riscaldante luce solare"
+
+Quando decidono di entrare nel tempio [che dará inizio al dungeoncrawl] sentiranno urla e rumore di ferro contro ferro provenire dalla strada principale (o semplicemente un vociore di gente che chiama qualora avessero sconfitto tutti i nemici li), ad arrivare é la squadra composta da 6 guardie di Ky, scortando il re
+Notando l'aura il re dará loro un totem amuleto in legno, che aiuterá a difenderli dalle emanazioni radiose che aumentano man mano che si sale la montagna
+
+Se iniziano ad avviarsi nel dungeon, l'antro é illuminato da alcune torce ai lati, il corridoio largo circa un metro e mezzo e molto alto, con delle scale verso l'alto
+
+In caso puzzle di stanze con Spada, Bacchetta magica, Simbolo sacro, Ingranaggio, Libro, Arco
+
+Pattern é Dx Dx Sx Dritto Dritto Dx
