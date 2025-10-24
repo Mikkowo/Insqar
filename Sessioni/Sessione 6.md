@@ -1,4 +1,4 @@
-
+b 
 CONT.
 
 Notando l'aura il re dará loro un totem amuleto in legno, che aiuterá a difenderli dalle emanazioni radiose che aumentano man mano che si sale la montagna
