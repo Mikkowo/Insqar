@@ -1,14 +1,8 @@
-[PREMESSA] PERFAVORE SE SAPETE GIA QUALCHE PUZZLE O CONOSCETE ALCUNE DELLE GIMMIK CHE USERÓ NON SFRUTTATE TALE CONOSCENZA IN QUANTO IL VOSTRO PERSONAGGIO NON LA CONOSCE
-
-
-----------------------------------------------
 
 
 Quando decidono di entrare nel tempio [che dará inizio al dungeoncrawl] sentiranno urla e rumore di ferro contro ferro provenire dalla strada principale (o semplicemente un vociore di gente che chiama qualora avessero sconfitto tutti i nemici li), ad arrivare é la squadra composta da 6 guardie di Ky, scortando il re. Lui chiederá di Maridov e fermerá Bocka per fargli alcune domande sull'accaduto
 
 Quando ad avviarsi nel dungeon, l'antro é illuminato da alcune torce ai lati, il corridoio largo circa un metro e mezzo e molto alto, con delle scale verso l'alto
-
-
 
 
 
