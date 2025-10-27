@@ -1,13 +1,7 @@
-
-CONT.
-
-Notando l'aura il re dará loro un totem amuleto in legno, che aiuterá a difenderli dalle emanazioni radiose che aumentano man mano che si sale la montagna
-
+[PREMESSA] PERFAVORE SE SAPETE GIA QUALCHE PUZZLE O CONOSCETE ALCUNE DELLE GIMMIK CHE USERÓ NON SFRUTTATE TALE CONOSCENZA IN QUANTO IL VOSTRO PERSONAGGIO NON LA CONOSCE
 
 
 ----------------------------------------------
-
-[PREMESSA] PERFAVORE SE SAPETE GIA QUALCHE PUZZLE O CONOSCETE ALCUNE DELLE GIMMIK CHE USERÓ NON SFRUTTATE TALE CONOSCENZA IN QUANTO IL VOSTRO PERSONAGGIO NON LA CONOSCE
 
 
 Quando decidono di entrare nel tempio [che dará inizio al dungeoncrawl] sentiranno urla e rumore di ferro contro ferro provenire dalla strada principale (o semplicemente un vociore di gente che chiama qualora avessero sconfitto tutti i nemici li), ad arrivare é la squadra composta da 6 guardie di Ky, scortando il re. Lui chiederá di Maridov e fermerá Bocka per fargli alcune domande sull'accaduto
@@ -53,6 +47,16 @@ Studiando il golem in se, sentiranno una presenza arcana venire da dietro la sua
 Cercando sulla schiena di Connor troveranno la stessa runa e lo stesso meccanismo. 
 Inserendo l'anima, Connor si spegnerá completamente per un paio di secondi, prima di riniziare ad accendersi con rune illuminate lungo le braccia e luce azzurra fuoriuscente dai fori dell'elmo.
 Dietro la sua spalla si illumineranno le lettere H.B.F.S, quindi prenderá coscienza e proverá a diventare indipendente riprendendosi il pendente (anche durante il sonno), rimanendo costretto a seguire gli ordini di chi lo possiede.  
+
+
+--------------
+
+FINE SESSIONE 6
+
+-----------------------------
+
+
+
 
 
 5- Corridoio stretto e cavernoso, piu lo si procede piú l'aria diventa stagna e rarefatta
