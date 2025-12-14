@@ -19,11 +19,10 @@ Gia da lontano, si sente un suono di ingranaggi e parti robotiche muoversi in un
 Il tomo é preservato perfettamente, tuttavia é scritto in un linguaggio runico indecifrabile. Provando a sfogliarlo, in una pagina le rune si accenderanno e i PG riusciranno a comprendere il significato delle parole runiche, nonostante non siano comunque in grado di capirne il testo, che recita: 
 
 "
-Qualcosa deve essere successo. Sono stati giorni dall'ultima volta che i nostri scout 
+Qualcosa deve essere successo. Sono stati giorni dall'ultima volta che i nostri ricognitori 
 hanno sentito una singola presenza Celeste. Non siamo a conoscenza del motivo, ma ne 
 comprendiamo la possibilitá. Siamo rimasti rintanati lontani dalla sua presenza radiosa per
-troppo tempo, sfruttandone comunque i benefici. Senza la benedizione Celeste a guidarci nel
-labirinto dovremo usare le nostre forze e accettare molteplici sacrifici per rincontrarLa.
+troppo tempo, godendo comunque dei suoi servigi aurei senza darle nulla in cambio. Senza la benedizione Celeste a guidarci nel labirinto dovremo usare le nostre forze e accettare molteplici sacrifici per rincontrarLa.
 
 Se stai cercando il suo accogliente conforto, presta attenzione: la strada verso il 
 Regno Celeste é piena di insidie. Un singolo passo falso e tutti i Guardiani Arcani si 
@@ -35,5 +34,5 @@ questa che per me é una trappola mortale:
 -----------------------------------
 
 
+LABIRINTO
 
-NECESSARIO CONTINUARE
