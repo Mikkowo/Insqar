@@ -71,7 +71,7 @@ Varcando l'ultima soglia, un breve corridoio vi annuncia il termine del mortale 
 
 L'aria gelida, ma finalmente fresca, vi da il benvenuto all'aperto, dove una tempesta di neve si sta abbattendo. Vedete a stento pochi metri davanti a voi, mentre vi incamminate contro i forti venti. A un certo punto, qualche metro al vostro lato e coperta dalla neve, scorgete una sagoma a terra.
 
---> La sagoma é un guerriero di grosse dimensioni caduto, ancora appogiato alla sua colossale ascia bipenne, che ormai é stata rovinata dalle intemperie ed é rimasta con una sola lama. Scostando della neve, sará riconoscibile un leggendario "pungo di ferro": guantoni ferrati con i quali teneva ferma la sua arma, marchiati dallo stemma della casata reale, rendendo ovvio di chi sia il corpo. Sul suo corpo, due manufatti magici ancora integri sono reperibili: [CACCIATRICE ASTRALE] e 
+--> La sagoma é un guerriero di grosse dimensioni caduto, ancora appogiato al suo colossale martello, che ormai é stata rovinato dalle intemperie. Scostando della neve, sará riconoscibile lo stemma sulla sua armatura, lo stemma della casata reale, rendendo ovvio di chi sia il corpo. Sul suo corpo, due manufatti magici ancora integri sono reperibili: [CACCIATRICE ASTRALE] e 
 [CINTURA NANICA DELL'ARMATURA].
 Il corpo non presenta ferite e deve essere perito per malattia, condizioni naturali o maledizioni di qualche tipo.
 
