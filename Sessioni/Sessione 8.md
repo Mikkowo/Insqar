@@ -36,3 +36,30 @@ questa che per me é una trappola mortale:
 
 LABIRINTO
 
+"Lo spazio vuoto dello stanzone é imponente dinanzi a voi. I muri perfettamente lisci dal colore della pietra vi fanno capire che vi trovate in uno spazio sovrannaturale. Come l'arco che avete superato per entrare ce ne sono altri 3, uno per lato del quadrato che delimita la camera. I pilastri, decorati con rappresentazioni angeliche, sono le uniche cose che rompono la monotonia di grigi assieme ad un sentiero bronzeo che divide con una croce la stanza in quattro lati uguali, collegando le 4 uscite al centro, dove spicca un piccolo altare di una pietra bianca"
+
+
+Gli altari al centro presentano in una teca indistruttibile un ologramma raffigurante rispettivamente: Spada, Bacchetta magica, Simbolo sacro, Scudo, Libro, Arco
+
+Il percorso é Dx, Sx, Sx, Dx, Sx, Dritto
+
+Le stanze sono tutte identiche tra loro, si ripetono all'infinito e tornano alla stanza della spada se sbagliano strada. Non possono uscire all'indietro dopo la seconda stranza.
+
+Sbagliando strada si attiva anche la trappola, facendoli entrare in una stanza con nemici gradualmente piú pericolosi, che si attivano quando sono nelle prossimitá dell'altare;
+
+[NEMICI]
+
+1 errore: [PENTADRONE]
+![[Pasted image 20251024165315.png]]
+
+
+2 errori: [GORGONE]
+![[Pasted image 20251214161116.png]]![[Pasted image 20251214161124.png]]
+
+3 errori: [IDRA]
+![[Pasted image 20251214161315.png]]
+4 errori : [DRAGO D'ARGENTO GIOVANE]
+![[Pasted image 20251214161734.png]]
+
+
+

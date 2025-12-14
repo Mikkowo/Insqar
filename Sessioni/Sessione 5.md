@@ -42,8 +42,3 @@ Iniziate a sentire energia radiosa diffusa attorno a voi, quasi come se stesse p
 Quando decidono di entrare nel tempio [che dará inizio al dungeoncrawl] sentiranno urla e rumore di ferro contro ferro provenire dalla strada principale (o semplicemente un vociore di gente che chiama qualora avessero sconfitto tutti i nemici li), ad arrivare é la squadra composta da 6 guardie di Ky, scortando il re
 Notando l'aura il re dará loro un totem amuleto in legno, che aiuterá a difenderli dalle emanazioni radiose che aumentano man mano che si sale la montagna
 
-Se iniziano ad avviarsi nel dungeon, l'antro é illuminato da alcune torce ai lati, il corridoio largo circa un metro e mezzo e molto alto, con delle scale verso l'alto
-
-In caso puzzle di stanze con Spada, Bacchetta magica, Simbolo sacro, Ingranaggio, Libro, Arco
-
-Pattern é Dx Dx Sx Dritto Dritto Dx
