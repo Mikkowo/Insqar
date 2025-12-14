@@ -28,6 +28,21 @@ Oggetto magico dalla forma di un cavallo degli scacchi che permette di aprire un
 Cinturone di origini naniche. Permette di scomporre l'intera armatura e la ripone in una tasca dimensionale premendo il bottone sulla cinghia. Ripremere il bottone re-equipaggerá l'armatura pezzo per pezzo. Necessita di un azione.
 
 
+[CACCIATRICE ASTRALE]
+Balestra creata in legno nero, sulle braccia vi sono intarsiate decorazione perliche raffiguranti 3 costellazioni diverse: la Bilancia, il Farabutto e le Fiamme.
+La balestra non ha bisogno di dardi materiali ma produce colpi magici che si dissipano dopo essere stati scagliati. La balestra ha 3 cariche e ne ricarica 1d3 ogni giorno al sorgere del sole.
+Puoi usare un azione bonus per invocare una delle 3 costellazioni e ottenere parte del loro potere, spendendo una carica.
+
+Bilancia: La prossima volta che colpisci una creatura con questa balestra prima della fine del tuo prossimo turno, tu o una creatura a tua scelta che to possa vedere entro 10 metri riguadagna 1d8+competenza PS
+
+Farabutto: Fino alla fine del tuo prossimo turno sei invisibile, e con te tutti gli oggetti che hai addosso o stai portando
+
+Fiamme: Fino alla fine del tuo prossimo turno, quando colpisci una creatura con questa balestra, l'attacco infligge 2d8 danni da fuoco extra
+
+
+
+
+
 
 
 

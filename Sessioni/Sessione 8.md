@@ -63,3 +63,13 @@ Sbagliando strada si attiva anche la trappola, facendoli entrare in una stanza c
 
 
 
+
+------------
+USCITA DAL LABIRINTO
+
+Varcando l'ultima soglia, un breve corridoio vi annuncia il termine del mortale labirinto, chissá quanti esploratori poco preparati ci hanno lasciato la pelle, mentre i piú arguti ne sono usciti inermi.
+
+L'aria gelida, ma finalmente fresca, vi da il benvenuto all'aperto, dove una tempesta di neve si sta abbattendo. Vedete a stento pochi metri davanti a voi, mentre vi incamminate contro i forti venti. A un certo punto, qualche metro al vostro lato e coperta dalla neve, scorgete una sagoma a terra.
+
+--> La sagoma é un guerriero di grosse dimensioni caduto, ancora appogiato alla sua colossale ascia bipenne, che ormai é stata rovinata dalle intemperie ed é rimasta con una sola lama. Scostando della neve, sará riconoscibile un leggendario "pungo di ferro": guantoni ferrati con i quali teneva ferma la sua arma, marchiati dallo stemma della casata reale, rendendo ovvio di chi sia il corpo. Sul suo corpo, due manufatti magici ancora integri sono reperibili: [CACCIATRICE ASTRALE] e 
+[CINTURA NANICA DELL'ARMATURA]
