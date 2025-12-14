@@ -72,4 +72,17 @@ Varcando l'ultima soglia, un breve corridoio vi annuncia il termine del mortale 
 L'aria gelida, ma finalmente fresca, vi da il benvenuto all'aperto, dove una tempesta di neve si sta abbattendo. Vedete a stento pochi metri davanti a voi, mentre vi incamminate contro i forti venti. A un certo punto, qualche metro al vostro lato e coperta dalla neve, scorgete una sagoma a terra.
 
 --> La sagoma é un guerriero di grosse dimensioni caduto, ancora appogiato alla sua colossale ascia bipenne, che ormai é stata rovinata dalle intemperie ed é rimasta con una sola lama. Scostando della neve, sará riconoscibile un leggendario "pungo di ferro": guantoni ferrati con i quali teneva ferma la sua arma, marchiati dallo stemma della casata reale, rendendo ovvio di chi sia il corpo. Sul suo corpo, due manufatti magici ancora integri sono reperibili: [CACCIATRICE ASTRALE] e 
-[CINTURA NANICA DELL'ARMATURA]
+[CINTURA NANICA DELL'ARMATURA].
+Il corpo non presenta ferite e deve essere perito per malattia, condizioni naturali o maledizioni di qualche tipo.
+
+Barricandosi sufficientemente rusciranno a creare un accampamento per riposarsi, si risveglieranno al rumore dell'arrivo del Re che ha dovuto combattere per uscire dal labirinto, non avendo trovato l'indizio. Maggior parte della sua compagnia sarà mancante, essendo che il re si presenta solo con una delle sue guardie fidate, Gradvis.
+
+
+"Vedete Gradvis prendere un pugnetto di incenso, mischiato con del terriccio e un frammento della corteccia di un albero, e buttarlo in una piccola ampolla d'acqua, facendo ambi gesti con le braccia mentre pronuncia i componenti di un incantesimo, poco dopo la tempesta inizia a placarsi pian piano, fino a diventare solo una tranquilla nevicata, lasciandovi più visibilità"
+
+
+
+ Ogni 10-20 minuti le condizioni atmosferiche continuano a migliorare, mentre proseguite per il percorso verso la cima, che rimane ancora invisibile ai vostri occhi. Anche quando la tempesta scompare del tutto, il cielo rimane completamente buio, nero con sfumature tendenti al violetto, nessuna stella in vista. L'aria è pervasa da un'illuminazione magica, che rende tutto visibile come fosse giorno.
+
+Quando arrivano finalmente a pochi passi dal punto più alto iniziano a sentire un coro di voci parlare in modo preciso e coinciso, frasi che ancora una volta non hanno senso per voi. A distanziarvi da esse vi è solo una rampa di antichi gradoni in pietra, che indica il percorso inciso tra due file di pilastri. Alzando lo sguardo, non riuscite a trovare la cima dei pilastri nonostante il meteo tranquillo: i piloni arrivano al tetto del cielo per poi scomparire in esso, una cosa per voi inspiegabile. Salite le scale.
+Dinanzi a voi una figura incappuciata con una tonaca rossa, che vi da le spalle. Sta supervisionando una dozzina di maghi, anch'essi incappuciati, inginocchiati a terra in un cerchio di quello che sembra essere un rituale, protetti da un ologrammico rubino carminio che avete gia visto in passato. Al centro di questo cerchio, il malefico imperatore di cui avete tanto sentito parlare, che si gira a guardarvi con sguardo severo
