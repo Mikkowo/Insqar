@@ -48,4 +48,4 @@ Quindi, dopo aver castato Volo, inizia a fluttuare verso esso, raggiungendolo co
 
 
 
-Quella roba li che la dea da qualche parte dev'essere andata, e che se vogliono cercarla dovranno avventurarsi oltremare, nel vasto mondo a loro sco
+Quella roba li che la dea da qualche parte dev'essere andata, e che se vogliono cercarla dovranno avventurarsi oltremare, nel vasto mondo a loro sconosciuto
