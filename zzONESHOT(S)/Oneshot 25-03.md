@@ -48,9 +48,4 @@ Stanza 3
 Al vostro ingresso nella stanza vi trovate accatastati come sardine in una piccola piazza ricordante una spiagga dalla grandezza di poco piú di un metro quadro. Attorno a voi solo acqua, acqua e acqua, fatta eccezione di un altro po di sabbia dall'altra parte della stanza con un corridoio come quello da dove venite e, al centro esatto della stanza, una costruzione in pietra che ad altezza acqua blocca il flusso, lasciando una piccola forma come una ziggurat inversa (andante verso il basso, con pareti non troppo ripide) all'asciutto. Al suo centro si trova la biglia blu raffigurante oceani e tempeste, che una volta raccoltá provocherá il sistema di difesa a drenare tutta l'acqua nella stanza, lasciando un fondale profondo circa 5 metri. Solo due blob d'acqua rimangono: i due elementali incaricati di difendere l'artefatto pronti ad attaccare
 
 
-
-
-
-
-
 ![[Pasted image 20260325182210.png]]
