@@ -21,6 +21,12 @@ Una figura incappucciata, mediamente robusto e altezza nella mia, con una tunica
 
 La prima stanza é quadrata e ogni parete ad eccezione di quella dove vengono é affrescata con disegni raffiguranti combattimenti e creature leggendarie. La parete di fronte ha 4 divinitá simili a quelle egizie con le mani che formano una ciotola, sopra di esse 4 concavitá della grandezza e forma di una biglia dei rispettivi colori: rosso verde blu marrone
 
+Descrivendo gli affreschi, uno sul lato destro rappresentante medusa avrá degli occhi verdi luminosi, inoltre si sentirá provenire da dietro una quieta corrente d'aria, dovranno spaccare il muro per trovare il passaggio
+
+
+
+
+Nella prima sala mediamente larga e relativamente lunga, centrata da due file di tre colonne in un piccolo rialzo verso il muro piú lontano vi é una figura con la parte inferiore del corpo serpentina mentre il busto e faccia di una donna, al posto dei capelli serpenti vivi che si guardano in giro. I suoi occhi sono chiusi e sta ballando sul posto
 
 
 
