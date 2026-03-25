@@ -49,3 +49,18 @@ Al vostro ingresso nella stanza vi trovate accatastati come sardine in una picco
 
 
 ![[Pasted image 20260325182210.png]]
+
+
+
+Stanza 4
+
+Stanza grande. pozze di lava. roccie sporadiche da usare come cover. gigante del fuoco in mezzo alla stanza con la biglia rossa, raffigurante lava e fuoco, incastonata nella sua fronte.
+Mazzate
+![[Pasted image 20260325184510.png]]
+
+
+
+
+Finale: messe le biglie si apre il portone
+
+Stanza con tomba bait chiusa, contenente un lich se aperta che gli fa il culo cosí a tutti. Affreschi simili alla stanza precedente con la stessa medusa sulla parete nord che guarda, se spaccata vera sala della tomba, con la tomba aperta (vuota pk jace é ancora in vita) e 4 forzieri contenenti ricchezze e oggetti magici. Se escono jace li paga e dice bravi
