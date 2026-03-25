@@ -26,7 +26,26 @@ Descrivendo gli affreschi, uno sul lato destro rappresentante medusa avrá degli
 
 
 
-Nella prima sala mediamente larga e relativamente lunga, centrata da due file di tre colonne in un piccolo rialzo verso il muro piú lontano vi é una figura con la parte inferiore del corpo serpentina mentre il busto e faccia di una donna, al posto dei capelli serpenti vivi che si guardano in giro. I suoi occhi sono chiusi e sta ballando sul posto
+Nella prima sala mediamente larga e relativamente lunga, centrata da due file di tre colonne in un piccolo rialzo verso il muro piú lontano vi é una figura con la parte inferiore del corpo serpentina mentre il busto e faccia di una donna, al posto dei capelli serpenti vivi che si guardano in giro. I suoi occhi sono chiusi e sta ballando sul posto. Tiro storia cd 14 per riconoscere medusa e sapere le sue abilitá
+Le trappole gialle attiveranno i basilischi, che spuntano da botole dietro le colonne non visibili prima
+
+Il proiettore dell'ologramma di Medusa é la biglia marrone rappresentante montagne e terreni
+
+![[Pasted image 20260325132450.png]]
+
+
+
+2a sala
+
+Le pareti sono un illusione facilmente riconoscibile di un cielo, dando l'impressione di essere in una piattaforma sospesa. Le mura sono comunque tangibili qualche 6 metri sopra la testa vi é nebbia che copre il presunto soffitto, lo stesso vale per il basso che, dopo una caduta di altrettanta distanza, viene sommersa da foschia. Il cadere verso il basso comporta l'entitá di essere teletrasportata seamlessy sul soffitto come se ci fosse un portale, continuando la caduta fino a raggiungere velocitá terminale (10d6 danni). Ogni turno potranno provare ad interrompere la caduta con un tiro progressivamente piú difficile in merito all'accellerazione.
+L'unica cosa che é presente nella stanza é un piccolo templio in bronzo sospeso su una nuvoletta, al suo interno la biglia verde raffigurante i venti e i cieli. Una volta raccolta la biglia saranno aggrediti dalla chimera che era nascosta sotto il templio. Oltre al templio ci sono altre nuvole nella stanza ad altezza piedi, calpestabili come se fossero terreno solito
+
+
+![[Pasted image 20260325174007.png]]
+
+Stanza 3
+
+Al vostro ingresso nella stanza vi trovate accatastati come sardine in una piccola piazza ricordante una spiagga dalla grandezza di poco piú di un metro quadro. Attorno a voi solo acqua, acqua e acqua, fatta eccezione di un altro po di sabbia dall'altra parte della stanza con un corridoio come quello da dove venite e, al centro esatto della stanza, una costruzione in pietra che ad altezza acqua blocca il flusso, lasciando una piccola forma come una ziggurat inversa (andante verso il basso, con pareti non troppo ripide) all'asciutto. Al suo centro si trova la biglia blu raffigurante oceani e tempeste, che una volta raccoltá provocherá il sistema di difesa a drenare tutta l'acqua nella stanza, lasciando un fondale profondo circa 5 metri. Solo due blob d'acqua rimangono: i due elementali incaricati di difendere l'artefatto pronti ad attaccare
 
 
 
@@ -34,10 +53,4 @@ Nella prima sala mediamente larga e relativamente lunga, centrata da due file di
 
 
 
-
-
-
-
-
-
-![[Pasted image 20260325132450.png]]![[Pasted image 20260325174007.png]]
+![[Pasted image 20260325182210.png]]
